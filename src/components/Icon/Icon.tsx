@@ -1,5 +1,6 @@
 import React, { CSSProperties } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import './FontAwesomeIcons'
 import { IconProp } from '@fortawesome/fontawesome-svg-core'
 import { IconType } from './interfaces'
 
@@ -54,6 +55,7 @@ interface Props {
  */
 const Icon = (props: Props) => {
   const { icon, className, style, onClick } = props
+
   return (
     <FontAwesomeIcon
       onClick={onClick}

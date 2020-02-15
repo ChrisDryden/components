@@ -1,9 +1,9 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { fas } from '@fortawesome/free-solid-svg-icons'
-
+import * as FontAwesomeIcons from './components/Icon/FontAwesomeIcons'
 import '../scss/main.scss'
 
-library.add(fas)
+library.add(...[FontAwesomeIcons])
+
 export * from './components/Toaster'
 export * from './components/Spinner'
 export * from './components/Graph'
