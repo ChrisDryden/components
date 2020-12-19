@@ -1,25 +1,23 @@
-export {
-  faPlus,
-  faUserShield,
-  faCalendar,
-  faCalendarPlus,
-  faCalendarMinus,
-  faCalendarAlt,
-  faColumns,
-  faChevronDown,
-  faEdit,
-  faCamera,
-  faFileAlt,
-  faMicroscope,
-  faChevronLeft,
-  faPills,
-  faUser,
-  faUserPlus,
-  faUserMinus,
-  faUsers,
-  faMinus,
-  faChevronRight,
-  faSave,
-  faCog,
-  faChevronUp,
-} from '@fortawesome/free-solid-svg-icons'
+export { faPlus } from '@fortawesome/free-solid-svg-icons/faPlus'
+export { faUserShield } from '@fortawesome/free-solid-svg-icons/faUserShield'
+export { faCalendar } from '@fortawesome/free-solid-svg-icons/faCalendar'
+export { faCalendarPlus, } from '@fortawesome/free-solid-svg-icons/faCalendarPlus'
+export { faCalendarMinus } from '@fortawesome/free-solid-svg-icons/faCalendarMinus'
+export { faCalendarAlt } from '@fortawesome/free-solid-svg-icons/faCalendarAlt'
+export { faColumns } from '@fortawesome/free-solid-svg-icons/faColumns'
+export { faChevronDown } from '@fortawesome/free-solid-svg-icons/faChevronDown'
+export { faEdit } from '@fortawesome/free-solid-svg-icons/faEdit'
+export { faCamera } from '@fortawesome/free-solid-svg-icons/faCamera'
+export { faFileAlt } from '@fortawesome/free-solid-svg-icons/faFileAlt'
+export { faMicroscope } from '@fortawesome/free-solid-svg-icons/faMicroscope'
+export { faChevronLeft } from '@fortawesome/free-solid-svg-icons/faChevronLeft'
+export { faPills } from '@fortawesome/free-solid-svg-icons/faPills'
+export { faUser } from '@fortawesome/free-solid-svg-icons/faUser'
+export { faUserPlus } from '@fortawesome/free-solid-svg-icons/faUserPlus'
+export { faUserMinus } from '@fortawesome/free-solid-svg-icons/faUserMinus'
+export { faUsers } from '@fortawesome/free-solid-svg-icons/faUsers'
+export { faMinus } from '@fortawesome/free-solid-svg-icons/faMinus'
+export { faChevronRight } from '@fortawesome/free-solid-svg-icons/faChevronRight'
+export { faSave } from '@fortawesome/free-solid-svg-icons/faSave'
+export { faCog } from '@fortawesome/free-solid-svg-icons/faCog'
+export { faChevronUp } from '@fortawesome/free-solid-svg-icons/faChevronUp'
